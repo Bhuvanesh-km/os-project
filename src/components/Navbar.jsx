@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className="nav-container">
       <img
-        src="src/assets/Logo.svg"
+        src="/Logo.svg"
         alt="Logo"
         className="nav-logo"
         onClick={navigatehome}

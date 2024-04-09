@@ -25,8 +25,8 @@ const Footer = () => {
           </div>
           <h1>Currency</h1>
           <div className="f-us">
-            <img src="src/assets/US.svg" alt="US" />
-            <img src="src/assets/star.svg" alt="star" />
+            <img src="/US.svg" alt="US" />
+            <img src="/star.svg" alt="star" />
             <h3>USD</h3>
           </div>
           <p>
@@ -65,10 +65,10 @@ const Footer = () => {
             <h1>Follow Us</h1>
             <ul className="socials">
               <li>
-                <img src="src/assets/Insta.svg" alt="instagram" />
+                <img src="/Insta.svg" alt="instagram" />
               </li>
               <li>
-                <img src="src/assets/linkedIn.svg" alt="linkedIn" />
+                <img src="/linkedIn.svg" alt="linkedIn" />
               </li>
             </ul>
           </div>
@@ -76,22 +76,22 @@ const Footer = () => {
             <h1>mettā muse Accepts</h1>
             <ul className="pay-methods">
               <li>
-                <img src="src/assets/gpay.svg" alt="gpay" />
+                <img src="/gpay.svg" alt="gpay" />
               </li>
               <li>
-                <img src="src/assets/mastercard.svg" alt="mastercard" />
+                <img src="/mastercard.svg" alt="mastercard" />
               </li>
               <li>
-                <img src="src/assets/paypal.svg" alt="paypal" />
+                <img src="/paypal.svg" alt="paypal" />
               </li>
               <li>
-                <img src="src/assets/amex.svg" alt="amex" />
+                <img src="/amex.svg" alt="amex" />
               </li>
               <li>
-                <img src="src/assets/apple.svg" alt="apple" />
+                <img src="/apple.svg" alt="apple" />
               </li>
               <li>
-                <img src="src/assets/pay.svg" alt="pay" />
+                <img src="/pay.svg" alt="pay" />
               </li>
             </ul>
           </div>
